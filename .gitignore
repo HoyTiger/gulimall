@@ -1,6 +1,6 @@
 target/
 pom.xml.tag
-pom.xml.releaseBackup
+pom.xml.releaseBackupgit
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
@@ -9,3 +9,10 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target
+.idea
